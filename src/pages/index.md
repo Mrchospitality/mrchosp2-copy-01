@@ -10,11 +10,15 @@ sections:
   actions: []
 - type: contentblock
   template: contentblock
-  title: About
+  title: About Us
   section_id: about
   actions:
-  - label: Contact Me
+  - label: Contact us
     url: "/contact"
+  - label: Weekly meal menu
+    url: ''
+  - label: Event Menu
+    url: ''
   component: ContentBlock
   content: This is the "about" excerpt. It can be used to provide a paragraph about
     yourself that people can read on the homepage to get a sense of who you are. There
