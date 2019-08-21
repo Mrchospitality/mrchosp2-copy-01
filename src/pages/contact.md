@@ -6,7 +6,7 @@ menus:
     weight: 5
 template: contact
 subtitle: We look forward to connecting with you!
-img_path: "/images/mrchospantipast.jpg"
+img_path: ''
 
 ---
-To get in touch fill the form below. Please be sure to include any food aversions, preferences and allergies.
+To get in touch fill in the form below. Please be sure to include any food aversions, preferences and allergies.
