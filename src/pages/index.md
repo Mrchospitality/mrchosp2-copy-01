@@ -1,6 +1,13 @@
 ---
 title: Home
 sections:
+- template: heroblock
+  component: HeroBlock
+  type: heroblock
+  content: 'MRC Hospitality '
+  title: ''
+  section_id: ''
+  actions: []
 - template: contentblock
   component: ContentBlock
   type: contentblock
@@ -26,15 +33,6 @@ sections:
     also exists a dedicated about page where you can write more about yourself for
     those who are interested.
   image: ''
-- type: postsblock
-  template: postsblock
-  title: Recent Posts
-  section_id: recent-posts
-  actions:
-  - label: View Blog
-    url: blog/index.html
-  component: PostsBlock
-  num_posts_displayed: 4
 menus:
   main:
     title: Home
