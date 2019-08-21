@@ -17,7 +17,6 @@ sections:
 - type: document
   path: src/pages/wmm/index.md
   label: Weekly Meal Menu
-  read_only: false
   templates:
   - blog
 - type: document
