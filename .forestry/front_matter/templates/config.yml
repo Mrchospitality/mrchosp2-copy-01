@@ -96,3 +96,15 @@ fields:
       name: new_window
       label: Open in new window
       default: true
+- name: menusmayb
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: menusmayb
