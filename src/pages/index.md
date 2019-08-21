@@ -18,7 +18,7 @@ sections:
     a meal, but an experience. \n\nThe menus on our site are just a small taste of
     what we can offer! We look forward to helping you create a menu that is perfect
     for your needs."
-  image: "/images/mrchospsalad.jpg"
+  image: ''
 menus:
   main:
     title: Home
