@@ -3,9 +3,9 @@
   "layout_style": "overflow",
   "palette": "green",
   "header": {
-    "title": "Stackbit Fresh",
-    "tagline": "Header Tagline",
-    "profile_img": "images/avatar.png",
+    "title": "MRC Hospitality",
+    "tagline": "Creating connections through food",
+    "profile_img": "/images/logofornow.png",
     "bg": "dark",
     "has_nav": true,
     "has_social": true
