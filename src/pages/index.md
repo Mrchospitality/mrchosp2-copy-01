@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  section_id: hero
+  section_id: ''
   component: HeroBlock
   content: Creating connections through food
   title: ''
