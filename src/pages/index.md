@@ -19,6 +19,14 @@ sections:
     what we can offer! We look forward to helping you create a menu that is perfect
     for your needs."
   image: ''
+- template: contentblock
+  component: ContentBlock
+  type: contentblock
+  image: "/images/mrchospsalad.jpg"
+  title: ''
+  section_id: ''
+  actions: []
+  content: ''
 menus:
   main:
     title: Home
