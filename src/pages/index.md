@@ -1,13 +1,14 @@
 ---
 title: Home
 sections:
-- type: heroblock
-  template: heroblock
-  section_id: ''
-  component: HeroBlock
-  content: Creating connections through food
+- template: contentblock
+  component: ContentBlock
+  type: contentblock
   title: ''
+  section_id: ''
   actions: []
+  content: ''
+  image: ''
 - type: contentblock
   template: contentblock
   title: About Us
