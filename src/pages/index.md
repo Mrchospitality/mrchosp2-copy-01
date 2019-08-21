@@ -1,16 +1,9 @@
 ---
 title: Home
 sections:
-- template: heroblock
-  component: HeroBlock
-  type: heroblock
-  content: 'MRC Hospitality '
-  title: ''
-  section_id: ''
-  actions: []
 - type: contentblock
   template: contentblock
-  title: About Us
+  title: 'Welcome to MRC Hospitality '
   section_id: about
   actions:
   - label: Contact us
